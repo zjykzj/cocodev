@@ -15,6 +15,8 @@
   <a href="http://commitizen.github.io/cz-cli/"><img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt=""></a>
 </p>
 
+By using script [get_coco.sh](./get_coco.sh), the COCO dataset train2017/val2017 can be obtained. After completing the run, you can find the corresponding data in `../datasets/coco`
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
