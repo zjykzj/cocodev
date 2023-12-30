@@ -1,7 +1,7 @@
 <div align="right">
   Language:
     🇺🇸
-  <!-- <a title="Chinese" href="./README.zh-CN.md">🇨🇳</a> -->
+  <a title="Chinese" href="./README.zh-CN.md">🇨🇳</a>
 </div>
 
 <div align="center"><a title="" href="https://github.com/zjykzj/cocodev"><img align="center" src="./imgs/cocodev.png" alt=""></a></div>
