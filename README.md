@@ -33,7 +33,7 @@
 
 ## Background
 
-[COCO](https://cocodataset.org/#home/) is the most influential object detection dataset, and currently the most advanced object detection algorithms usually use it as the benchmark dataset. This warehouse stores the code and tools I commonly use when processing COCO datasets,
+[COCO](https://cocodataset.org/#home/) is the most influential object detection dataset, and currently the most advanced object detection algorithms usually use it as the benchmark dataset. This warehouse stores the code and tools I commonly use when processing COCO datasets.
 
 ## Maintainers
 
