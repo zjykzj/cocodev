@@ -15,7 +15,13 @@
   <a href="http://commitizen.github.io/cz-cli/"><img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt=""></a>
 </p>
 
-By using script [get_coco.sh](./get_coco.sh), the COCO dataset train2017/val2017 can be obtained. After completing the run, you can find the corresponding data in `../datasets/coco`
+* Get COCO dataset 
+  * By using script [get_coco.sh](./get_coco.sh), the COCO dataset train2017/val2017 can be obtained. 
+  * After completing the run, you can find the corresponding data in `../datasets/coco`
+* Convert COCO dataset to YOLOv5 format
+  * [py/coco2yolov5.py](py/coco2yolov5.py)
+* Convert COCOLike data to YOLOv5 format
+  * [py/cocolike2yolov5.py](py/cocolike2yolov5.py)
 
 ## Table of Contents
 
